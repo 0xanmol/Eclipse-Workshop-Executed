@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/0xanmol/Dev/eclipse/trial-workshop/testnet-deposit/example-helloworld/src/program-rust/target/release/build/typenum-3d1c14e10e9ce127/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/0xanmol/Dev/eclipse/trial-workshop/testnet-deposit/example-helloworld/src/program-rust/target/release/build/typenum-3d1c14e10e9ce127/out/op.rs

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/0xanmol/Dev/eclipse/trial-workshop/testnet-deposit/example-helloworld/src/program-rust/target/sbf-solana-solana/release/build/typenum-d7325254cb70b8a1/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/0xanmol/Dev/eclipse/trial-workshop/testnet-deposit/example-helloworld/src/program-rust/target/sbf-solana-solana/release/build/typenum-d7325254cb70b8a1/out/op.rs

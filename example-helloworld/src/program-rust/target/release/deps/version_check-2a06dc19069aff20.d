@@ -1,0 +1,10 @@
+/Users/0xanmol/Dev/eclipse/trial-workshop/testnet-deposit/example-helloworld/src/program-rust/target/release/deps/libversion_check-2a06dc19069aff20.rmeta: /Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/lib.rs /Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/version.rs /Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/channel.rs /Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/date.rs
+
+/Users/0xanmol/Dev/eclipse/trial-workshop/testnet-deposit/example-helloworld/src/program-rust/target/release/deps/libversion_check-2a06dc19069aff20.rlib: /Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/lib.rs /Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/version.rs /Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/channel.rs /Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/date.rs
+
+/Users/0xanmol/Dev/eclipse/trial-workshop/testnet-deposit/example-helloworld/src/program-rust/target/release/deps/version_check-2a06dc19069aff20.d: /Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/lib.rs /Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/version.rs /Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/channel.rs /Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/date.rs
+
+/Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/lib.rs:
+/Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/version.rs:
+/Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/channel.rs:
+/Users/0xanmol/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/date.rs:

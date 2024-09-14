@@ -1,0 +1,1 @@
+/Users/0xanmol/Dev/eclipse/trial-workshop/testnet-deposit/example-helloworld/src/program-rust/target/sbf-solana-solana/release/libhelloworld.rlib: /Users/0xanmol/Dev/eclipse/trial-workshop/testnet-deposit/example-helloworld/src/program-rust/src/lib.rs
